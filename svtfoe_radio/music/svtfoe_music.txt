@@ -1,0 +1,557 @@
+music_station = "svtfoe_music_station"
+music = {
+	song = "blood_moon_waltz"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "everythings_coming_up_star"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "field_of_screams"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "king_butterflys_party"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "meet_toffee"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+	
+}
+
+music = {
+	song = "mewnipendence_day_reenactment"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "oskar_isn't_calling"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "princess_party"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "st_olgas_infomercial"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "stars_decision"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "toffee_vs_marco"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "we_have_each_others_back"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s2_blow_out_this_flame"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_blow_out_this_flame_2"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_marcos_new_life"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s2_marcos_new_life_2"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s2_marcos_old_life"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s2_day_37"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_detention_dash"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_graveyard_battle"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_ludo_vs_spider"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_marco_confesses_all"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s2_one_last_piggyback"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_ready_set_flags"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_save_star"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_save_the_bounce_lounge"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s2_star_climbs_the_mountain"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_star_vs_the_volcano"
+	chance = {
+		
+		modifier = {
+			factor = 1
+		
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_starcrushed"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_stars_tree_of_hope"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_such_a_simple_concept"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_the_grandma_room"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_the_portal_turns"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s2_worst_wand_fight_warnicorn_stampede_ftw"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_anything_meteora_wants"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_conquer_suite"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_demoncisim"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_half_monster"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_knew_there_was_something_missing"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s3_star_and_tom_dance"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s3_eclipsas_theme"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s3_battle_for_st_olgas"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_the_magic_archives"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s3_the_pigeon_future"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s3_toffee_returns"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+
+music = {
+	song = "s4_back_to_the_crystal"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "s4_choose_pies"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+

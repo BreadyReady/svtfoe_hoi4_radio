@@ -1,0 +1,234 @@
+music = {
+	name = "blood_moon_waltz"
+	file = "blood_moon_waltz.ogg"
+}
+
+music = {
+	name = "everythings_coming_up_star"
+	file = "everythings_coming_up_star.ogg"
+}
+
+music = {
+	name = "field_of_screams"
+	file = "field_of_screams.ogg"
+}
+
+music = {
+	name = "king_butterflys_party"
+	file = "king_butterflys_party.ogg"
+}
+
+music = {
+	name = "meet_toffee"
+	file = "meet_toffee.ogg"
+}
+
+music = {
+	name = "mewnipendence_day_reenactment"
+	file = "mewnipendence_day_reenactment.ogg"
+}
+
+music = {
+	name = "oskar_isn't_calling"
+	file = "oskar_isn't_calling.ogg"
+}
+
+music = {
+	name = "princess_party"
+	file = "princess_party.ogg"
+}
+
+music = {
+	name = "st_olgas_infomercial"
+	file = "st_olgas_infomercial.ogg"
+}
+
+music = {
+	name = "stars_decision"
+	file = "stars_decision.ogg"
+}
+
+music = {
+	name = "toffee_vs_marco"
+	file = "toffee_vs_marco.ogg"
+}
+
+music = {
+	name = "we_have_each_others_back"
+	file = "we_have_each_others_back.ogg"
+}
+
+music = {
+	name = "s2_blow_out_this_flame"
+	file = "s2_blow_out_this_flame.ogg"
+}
+
+music = {
+	name = "s2_blow_out_this_flame_2"
+	file = "s2_blow_out_this_flame_2.ogg"
+}
+
+music = {
+	name = "s2_day_37"
+	file = "s2_day_37.ogg"
+}
+
+music = {
+	name = "s2_detention_dash"
+	file = "s2_detention_dash.ogg"
+}
+
+music = {
+	name = "s2_graveyard_battle"
+	file = "s2_graveyard_battle.ogg"
+}
+
+music = {
+	name = "s2_ludo_vs_spider"
+	file = "s2_ludo_vs_spider.ogg"
+}
+
+music = {
+	name = "s2_marco_confesses_all"
+	file = "s2_marco_confesses_all.ogg"
+}
+
+music = {
+	name = "s2_marcos_new_life"
+	file = "s2_marcos_new_life.ogg"
+}
+
+music = {
+	name = "s2_marcos_new_life_2"
+	file = "s2_marcos_new_life_2.ogg"
+}
+
+music = {
+	name = "s2_marcos_old_life"
+	file = "s2_marcos_old_life.ogg"
+}
+
+music = {
+	name = "s2_one_last_piggyback"
+	file = "s2_one_last_piggyback.ogg"
+}
+
+music = {
+	name = "s2_ready_set_flags"
+	file = "s2_ready_set_flags.ogg"
+}
+
+music = {
+	name = "s2_save_star"
+	file = "s2_save_star.ogg"
+}
+
+music = {
+	name = "s2_save_the_bounce_lounge"
+	file = "s2_save_the_bounce_lounge.ogg"
+}
+
+music = {
+	name = "s2_star_climbs_the_mountain"
+	file = "s2_star_climbs_the_mountain.ogg"
+}
+
+music = {
+	name = "s2_star_vs_the_volcano"
+	file = "s2_star_vs_the_volcano.ogg"
+}
+
+music = {
+	name = "s2_starcrushed"
+	file = "s2_starcrushed.ogg"
+}
+
+music = {
+	name = "s2_stars_tree_of_hope"
+	file = "s2_stars_tree_of_hope.ogg"
+}
+
+music = {
+	name = "s2_such_a_simple_concept"
+	file = "s2_such_a_simple_concept.ogg"
+}
+
+music = {
+	name = "s2_the_grandma_room"
+	file = "s2_the_grandma_room.ogg"
+}
+
+music = {
+	name = "s2_the_portal_turns"
+	file = "s2_the_portal_turns.ogg"
+}
+
+music = {
+	name = "s2_worst_wand_fight_warnicorn_stampede_ftw"
+	file = "s2_worst_wand_fight_warnicorn_stampede_ftw.ogg"
+}
+
+music = {
+	name = "s3_anything_meteora_wants"
+	file = "s3_anything_meteora_wants.ogg"
+}
+
+music = {
+	name = "s3_conquer_suite"
+	file = "s3_conquer_suite.ogg"
+}
+
+music = {
+	name = "s3_demoncisim"
+	file = "s3_demoncisim.ogg"
+}
+
+music = {
+	name = "s3_half_monster"
+	file = "s3_half_monster.ogg"
+}
+
+music = {
+	name = "s3_knew_there_was_something_missing"
+	file = "s3_knew_there_was_something_missing.ogg"
+}
+
+music = {
+	name = "s3_star_and_tom_dance"
+	file = "s3_star_and_tom_dance.ogg"
+}
+
+music = {
+	name = "s3_eclipsas_theme"
+	file = "s3_eclipsas_theme.ogg"
+}
+
+music = {
+	name = "s3_battle_for_st_olgas"
+	file = "s3_battle_for_st_olgas.ogg"
+}
+
+music = {
+	name = "s3_the_magic_archives"
+	file = "s3_the_magic_archives.ogg"
+}
+
+music = {
+	name = "s3_the_pigeon_future"
+	file = "s3_the_pigeon_future.ogg"
+}
+
+music = {
+	name = "s3_toffee_returns"
+	file = "s3_toffee_returns.ogg"
+}
+
+music = {
+	name = "s4_back_to_the_crystal"
+	file = "s4_back_to_the_crystal.ogg"
+}
+
+music = {
+	name = "s4_choose_pies"
+	file = "s4_choose_pies.ogg"
+}
