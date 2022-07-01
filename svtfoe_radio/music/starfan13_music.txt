@@ -1,0 +1,12 @@
+music_station = "starfan13_music_station"
+music = {
+	song = "starfan13_ballad_of_star_butterfly"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}

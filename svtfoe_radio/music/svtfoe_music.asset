@@ -232,3 +232,10 @@ music = {
 	name = "s4_choose_pies"
 	file = "s4_choose_pies.ogg"
 }
+
+#Starfan 13
+
+music = {
+	name = "starfan13_ballad_of_star_butterfly"
+	file = "starfan13_ballad_of_star_butterfly.ogg"
+}

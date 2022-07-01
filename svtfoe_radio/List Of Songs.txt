@@ -35,7 +35,7 @@ Thank you for downloading my mod! Below are the file names of the music, the ing
  s2_such_a_simple_concept - Waning Hope (S2 Such A Simplt Concept)
  s2_the_grandma_room - Doomed To Repeat It (S2 The Grandma Room)
  s2_the_portal_turns - The Occupation (S2 The Portal Turns)
- s2_worst_wand_fight_warnicorn_stampede_ftw - The Mewman Civil War (S2 Worst Wand FightWarnicorn Stampede FTW)
+ s2_worst_wand_fight_warnicorn_stampede_ftw - The Battle for Mewni (S2 Worst Wand FightWarnicorn Stampede FTW)
  s3_anything_meteora_wants - The Grand March (S3 Anything Meteora Wants)
  s3_conquer_suite - Mewman Orchestra (S3 Conquer Suite)
  s3_demoncisim - Underworld Occult (S3 Demoncisim)
