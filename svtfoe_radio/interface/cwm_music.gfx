@@ -9,4 +9,9 @@ spriteTypes = {
 		textureFile = "gfx/starfan13_station_cover.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_moon_butterflys_collection_station_cover"
+		textureFile = "gfx/moon_butterflys_collection_station_cover.dds"
+		noOfFrames = 2
+	}
 }

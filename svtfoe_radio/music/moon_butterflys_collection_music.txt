@@ -1,0 +1,12 @@
+music_station = "moon_butterflys_collection_music_station"
+music = {
+	song = "moon_so_this_is_love"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}

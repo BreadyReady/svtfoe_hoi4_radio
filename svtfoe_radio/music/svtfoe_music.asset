@@ -239,3 +239,10 @@ music = {
 	name = "starfan13_ballad_of_star_butterfly"
 	file = "starfan13_ballad_of_star_butterfly.ogg"
 }
+
+#Moon
+
+music = {
+	name = "moon_so_this_is_love"
+	file = "moon_so_this_is_love.ogg"
+}
