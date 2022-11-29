@@ -1,5 +1,5 @@
 ﻿l_english:
- svtfoe_music_station_TITLE:0 "Mewni Mirror Broadcasts"
+ svtfoe_music_station_TITLE:0 "Royal Channel 97.3 - 'Mewni Mirror Broadcasts'"
  blood_moon_waltz:0 "Mewman Ballroom"
  everythings_coming_up_star:0 "A New Friend"
  field_of_screams:0 "Solaria's Conquest"
@@ -48,8 +48,37 @@
  s4_back_to_the_crystal:0 "Naval Invasion"
  s4_choose_pies:0 "Monster Orchestra"
  ###################################
- starfan13_music_station_TITLE:0 "Starfan13's Cherished Tunes"
+ starfan13_music_station_TITLE:0 "Starfan13's Sacred Shrine Tunes"
+ starfan13_svtfoe_intro:0 "First Viewing"
+ starfan13_s1_outro:0 "'Pretty Great!'"
+ starfan13_ballad_of_star_butterfly:0 "Shipping"
+ starfan13_s3_outro:0 "Finale"
+ starfan13_just_friends:0 "Growing Detatched"
+ starfan13_stars_theme_piano:0 "One last time remembered."
  
  ###################################
- moon_butterflys_collection_music_station_TITLE:0 "Moon Butterfly's Favorite Pieces in her Collection of Earth Music"
+ moon_butterflys_collection_music_station_TITLE:0 "Moon Butterfly's Collection of Earth Music"
+ moon_so_this_is_love:0 "So This is Love"
+ moon_tale_as_old_as_time:0 "Tale as Old as Time"
+ moon_someday_my_prince_will_come:0 "Someday My Prince Will Come"
+ moon_part_of_your_world:0 "Part of Your World"
+ moon_once_upon_a_dream:0 "Once Upon a Dream"
+ moon_once_upon_a_december:0 "Last Real Earth Monarchy"
+ moon_bluebird:0 "Cyanbird"
+ moon_as_i_was:0 "As I Was"
+ moon_circle:0 "Circle"
+ moon_orchestral_suite_No3:0 "Earth - 'Orchestral Suite No. 3'"
+ 
+ ###################################
+ marco_music_station_TITLE:0 "Marco's Mixtape for Badboys and Rebels"
+ marco_space_unicorn:0 "Innocent Irony"
+ marco_hugos_case:0 "Incompetent Police Force"
+ marco_tuck_story:0 "Family in Hiding"
+ marco_partner_in_crime:0 "Criminals"
+ marco_newsies:0 "Unrest"
+ marco_barbie_girl:0 "Innocence Lost"
+ marco_tacos:0 "Mexican Cartel"
+ marco_sans_undertale:0 "Entering a High"
+ marco_babyshark:0 "Glorification of Violence"
+ marco_love_like_you:0 "Late Night City Lights"
  

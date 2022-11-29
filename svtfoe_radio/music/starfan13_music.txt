@@ -1,10 +1,71 @@
 music_station = "starfan13_music_station"
+
+music = {
+	song = "starfan13_svtfoe_intro"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "starfan13_s1_outro"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "starfan13_s3_outro"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
 music = {
 	song = "starfan13_ballad_of_star_butterfly"
 	chance = {
 		
 		modifier = {
 			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "starfan13_just_friends"
+	chance = {
+		
+		modifier = {
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "starfan13_stars_theme_piano"
+	chance = {
+		
+		modifier = {
+			factor = 0
 			
 			has_war = yes
 		}

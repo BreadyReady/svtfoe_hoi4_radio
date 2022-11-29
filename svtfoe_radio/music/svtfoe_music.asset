@@ -240,9 +240,132 @@ music = {
 	file = "starfan13_ballad_of_star_butterfly.ogg"
 }
 
+music = {
+	name = "starfan13_svtfoe_intro"
+	file = "starfan13_svtfoe_intro.ogg"
+}
+
+music = {
+	name = "starfan13_s1_outro"
+	file = "starfan13_s1_outro.ogg"
+}
+
+music = {
+	name = "starfan13_s3_outro"
+	file = "starfan13_s3_outro.ogg"
+}
+
+music = {
+	name = "starfan13_just_friends"
+	file = "starfan13_just_friends.ogg"
+}
+
+music = {
+	name = "starfan13_stars_theme_piano"
+	file = "starfan13_stars_theme_piano.ogg"
+}
+
 #Moon
 
 music = {
 	name = "moon_so_this_is_love"
 	file = "moon_so_this_is_love.ogg"
 }
+
+music = {
+	name = "moon_once_upon_a_december"
+	file = "moon_once_upon_a_december.ogg"
+}
+
+music = {
+	name = "moon_once_upon_a_dream"
+	file = "moon_once_upon_a_dream.ogg"
+}
+
+music = {
+	name = "moon_part_of_your_world"
+	file = "moon_part_of_your_world.ogg"
+}
+
+music = {
+	name = "moon_someday_my_prince_will_come"
+	file = "moon_someday_my_prince_will_come.ogg"
+}
+
+music = {
+	name = "moon_tale_as_old_as_time"
+	file = "moon_tale_as_old_as_time.ogg"
+}
+
+music = {
+	name = "moon_bluebird"
+	file = "moon_bluebird.ogg"
+}
+
+music = {
+	name = "moon_as_i_was"
+	file = "moon_as_i_was.ogg"
+}
+
+music = {
+	name = "moon_circle"
+	file = "moon_circle.ogg"
+}
+
+music = {
+	name = "moon_orchestral_suite_No3"
+	file = "moon_orchestral_suite_No3.ogg"
+}
+
+#Marco
+
+music = {
+	name = "marco_hugos_case"
+	file = "marco_hugos_case.ogg"
+}
+
+music = {
+	name = "marco_tuck_story"
+	file = "marco_tuck_story.ogg"
+}
+
+music = {
+	name = "marco_partner_in_crime"
+	file = "marco_partner_in_crime.ogg"
+}
+
+music = {
+	name = "marco_newsies"
+	file = "marco_newsies.ogg"
+}
+
+music = {
+	name = "marco_space_unicorn"
+	file = "marco_space_unicorn.ogg"
+}
+
+music = {
+	name = "marco_barbie_girl"
+	file = "marco_barbie_girl.ogg"
+}
+
+music = {
+	name = "marco_tacos"
+	file = "marco_tacos.ogg"
+}
+
+music = {
+	name = "marco_sans_undertale"
+	file = "marco_sans_undertale.ogg"
+}
+
+music = {
+	name = "marco_love_like_you"
+	file = "marco_love_like_you.ogg"
+}
+
+music = {
+	name = "marco_babyshark"
+	file = "marco_babyshark.ogg"
+}
+

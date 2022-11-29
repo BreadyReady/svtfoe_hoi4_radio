@@ -14,4 +14,9 @@ spriteTypes = {
 		textureFile = "gfx/moon_butterflys_collection_station_cover.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_marco_station_cover"
+		textureFile = "gfx/marco_station_cover.dds"
+		noOfFrames = 2
+	}
 }
