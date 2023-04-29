@@ -369,3 +369,8 @@ music = {
 	file = "marco_babyshark.ogg"
 }
 
+music = {
+	name = "marco_candy_store"
+	file = "marco_candy_store.ogg"
+}
+

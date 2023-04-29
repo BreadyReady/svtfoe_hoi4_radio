@@ -4,7 +4,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 2
+			factor = 1
 			
 			has_war = yes
 		}
@@ -16,7 +16,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -28,7 +28,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -40,7 +40,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -52,7 +52,19 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
+			
+			has_war = yes
+		}
+	}
+}
+
+music = {
+	song = "marco_candy_store"
+	chance = {
+		
+		modifier = {
+			factor = 1
 			
 			has_war = yes
 		}
@@ -64,7 +76,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -76,7 +88,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -88,7 +100,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -100,7 +112,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
@@ -112,7 +124,7 @@ music = {
 	chance = {
 		
 		modifier = {
-			factor = 3
+			factor = 1
 			
 			has_war = no
 		}
