@@ -374,3 +374,201 @@ music = {
 	file = "marco_candy_store.ogg"
 }
 
+#####################
+#JUST VIBES##########
+#####################
+
+music = {
+	name = "stalker_guitar"
+	file = "stalker_guitar.ogg"
+}
+
+music = {
+	name = "shutup_and_dance"
+	file = "shutup_and_dance.ogg"
+}
+
+music = {
+	name = "safe_and_sound"
+	file = "safe_and_sound.ogg"
+}
+
+music = {
+	name = "good_time"
+	file = "good_time.ogg"
+}
+
+music = {
+	name = "cheerleader"
+	file = "cheerleader.ogg"
+}
+
+music = {
+	name = "levitating"
+	file = "levitating.ogg"
+}
+
+music = {
+	name = "dynamite"
+	file = "dynamite.ogg"
+}
+
+music = {
+	name = "friday"
+	file = "friday.ogg"
+}
+
+music = {
+	name = "dj_got_us_fallin"
+	file = "dj_got_us_fallin.ogg"
+}
+
+music = {
+	name = "fireflies"
+	file = "fireflies.ogg"
+}
+
+music = {
+	name = "jagger"
+	file = "jagger.ogg"
+}
+
+music = {
+	name = "jojo_karma"
+	file = "jojo_karma.ogg"
+}
+
+music = {
+	name = "call_me_maybe"
+	file = "call_me_maybe.ogg"
+}
+
+music = {
+	name = "ocean_cake"
+	file = "ocean_cake.ogg"
+}
+
+music = {
+	name = "give_me_everything"
+	file = "give_me_everything.ogg"
+}
+
+music = {
+	name = "starships"
+	file = "starships.ogg"
+}
+
+music = {
+	name = "california_girls"
+	file = "california_girls.ogg"
+}
+
+music = {
+	name = "tiktok"
+	file = "tiktok.ogg"
+}
+
+music = {
+	name = "firework"
+	file = "firework.ogg"
+}
+
+music = {
+	name = "soul_sister"
+	file = "soul_sister.ogg"
+}
+
+music = {
+	name = "bestday"
+	file = "bestday.ogg"
+}
+
+music = {
+	name = "counting_stars"
+	file = "counting_stars.ogg"
+}
+
+music = {
+	name = "timber"
+	file = "timber.ogg"
+}
+
+music = {
+	name = "moment"
+	file = "moment.ogg"
+}
+
+music = {
+	name = "die_young"
+	file = "die_young.ogg"
+}
+
+music = {
+	name = "came"
+	file = "came.ogg"
+}
+
+music = {
+	name = "whistle"
+	file = "whistle.ogg"
+}
+
+music = {
+	name = "stay"
+	file = "stay.ogg"
+}
+
+music = {
+	name = "watermelon_sugar"
+	file = "watermelon_sugar.ogg"
+}
+
+music = {
+	name = "im_good"
+	file = "im_good.ogg"
+}
+
+music = {
+	name = "grenade"
+	file = "grenade.ogg"
+}
+
+music = {
+	name = "what_i_like"
+	file = "what_i_like.ogg"
+}
+
+music = {
+	name = "shape_of_you"
+	file = "shape_of_you.ogg"
+}
+
+music = {
+	name = "weather_hackers"
+	file = "weather_hackers.ogg"
+}
+
+music = {
+	name = "two_days_into_college"
+	file = "two_days_into_college.ogg"
+}
+
+music = {
+	name = "see_you_again"
+	file = "see_you_again.ogg"
+}
+
+music = {
+	name = "hot_to_go"
+	file = "hot_to_go.ogg"
+}
+
+music = {
+	name = "good_luck_babe"
+	file = "good_luck_babe.ogg"
+}
+
+music = {
+	name = "femininomenon"
+	file = "femininomenon.ogg"
+}

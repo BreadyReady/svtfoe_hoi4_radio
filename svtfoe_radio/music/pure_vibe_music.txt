@@ -1,0 +1,371 @@
+music_station = "no_relation_just_vibe_music_station"
+music = {
+	song = "shutup_and_dance"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "safe_and_sound"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "good_time"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "cheerleader"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "levitating"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "dynamite"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "friday"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "dj_got_us_fallin"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "fireflies"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "jojo_karma"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "call_me_maybe"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "ocean_cake"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "give_me_everything"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "starships"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "california_girls"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "tiktok"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "firework"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "soul_sister"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "bestday"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "counting_stars"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "timber"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "moment"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "die_young"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "came"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "whistle"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "stay"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "watermelon_sugar"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "im_good"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "grenade"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "what_i_like"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "shape_of_you"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "weather_hackers"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "two_days_into_college"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "see_you_again"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "hot_to_go"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "good_luck_babe"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
+music = {
+	song = "femininomenon"
+	chance = {
+		modifier = {
+			factor = 1
+			
+			has_war = no
+		}
+	}
+}
