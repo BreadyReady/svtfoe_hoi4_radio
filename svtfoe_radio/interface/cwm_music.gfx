@@ -24,4 +24,14 @@ spriteTypes = {
 		textureFile = "gfx/pop_station_cover.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_eclipsa_station_cover"
+		textureFile = "gfx/eclipsa_station_cover.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_oskar_station_cover"
+		textureFile = "gfx/oskar_station_cover.dds"
+		noOfFrames = 2
+	}
 }

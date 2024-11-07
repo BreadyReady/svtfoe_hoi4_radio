@@ -1,0 +1,27 @@
+music_station = "oskar_music_station"
+music = {
+	song = "oskar_moonstotzka"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "real_humiku_bean"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+music = {
+	song = "drive_by"
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
