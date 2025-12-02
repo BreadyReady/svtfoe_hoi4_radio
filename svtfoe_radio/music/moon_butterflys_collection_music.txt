@@ -2,119 +2,69 @@ music_station = "moon_butterflys_collection_music_station"
 music = {
 	song = "moon_so_this_is_love"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_tale_as_old_as_time"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_someday_my_prince_will_come"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_part_of_your_world"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_once_upon_a_dream"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_once_upon_a_december"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_bluebird"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_as_i_was"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_circle"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "moon_orchestral_suite_No3"
 	chance = {
-		
-		modifier = {
-			factor = 3
-			
-			has_war = no
-		}
+		base = 1
 	}
 }

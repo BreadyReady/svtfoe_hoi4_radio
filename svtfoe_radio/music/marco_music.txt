@@ -2,129 +2,83 @@ music_station = "marco_music_station"
 music = {
 	song = "marco_space_unicorn"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = yes
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_hugos_case"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_tuck_story"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_partner_in_crime"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_newsies"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = yes
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_candy_store"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = yes
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_barbie_girl"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_tacos"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_sans_undertale"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_babyshark"
 	chance = {
-		
-		modifier = {
-			factor = 1
-			
-			has_war = no
-		}
+		base = 1
 	}
 }
 
 music = {
 	song = "marco_love_like_you"
+}
+
+music = {
+	song = "marco_fine"
 	chance = {
-		
+		base = 1
 		modifier = {
-			factor = 1
+			factor = 5
 			
 			has_war = no
 		}

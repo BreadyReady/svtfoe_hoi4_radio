@@ -1,9 +1,0 @@
-music_station = "eclipsa_music_station"
-music = {
-	song = "eclipsa_beggin"
-	chance = {
-		modifier = {
-			factor = 1
-		}
-	}
-}
